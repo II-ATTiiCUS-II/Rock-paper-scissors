@@ -1,0 +1,45 @@
+html {
+    margin: 60px;
+}
+#userInput {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    color: aqua;
+    font-size: 20px;
+}
+input {
+    font-family: bangers;
+    letter-spacing: 5px;
+}
+#card {
+    box-shadow: 10px 10px 5px ; 
+    width: 250px;
+    height: 100px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+#container {
+    position: relative;
+}
+#background {
+    width: 100%;
+}
+#heading {
+    display: flex;
+    flex: auto;
+    position: relative;
+    font-family: bangers; 
+    left: 40px;
+    box-shadow: 2px 2px 2px 4px;
+    padding: 20px;
+    word-spacing: 1px;
+    letter-spacing: 2px;
+}
+#btn1 {
+    position: absolute;
+    left: 50px;
+    box-shadow: 2px 2px 2px;
+    background-color: aqua;
+}
